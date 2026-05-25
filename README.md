@@ -41,14 +41,6 @@ Automation system for building, cleaning, validating, and managing commercial da
 
 ---
 
-### 🔹 bot-trading
-
-Algorithmic trading project with modular architecture, risk management, and controlled testing on MetaTrader 5.
-
-**Technologies:** MQL5, risk management, backtesting, automation.
-
----
-
 ### 🔹 App-Accesible
 
 Accessibility-focused mobile application with voice assistance and simplified interaction for visually impaired users.
