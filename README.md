@@ -1,4 +1,4 @@
-# 👋 Hola, soy Daniel Cesar Pedraza
+# 👋 Hola, soy ing Pedraza
 
 **Ingeniero Civil | Geotecnia | Automatización | IA aplicada | n8n | Python | GIS**
 
