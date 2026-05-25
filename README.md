@@ -1,25 +1,25 @@
-# 👋 Hola, soy ing Pedraza
+# 👋 Hi, I'm ing Pedraza
 
-**Ingeniero Civil | Geotecnia | Automatización | IA aplicada | n8n | Python | GIS**
+**Civil Engineer | Geotechnics | Automation | Applied AI | n8n | Python | GIS**
 
-Desarrollo soluciones técnicas que combinan ingeniería civil, automatización de procesos, análisis de datos, inteligencia artificial y herramientas geoespaciales.
-
----
-
-## 🧭 Enfoque profesional
-
-Trabajo en la intersección entre ingeniería, datos y automatización:
-
-- Ingeniería civil, geotecnia e interventoría técnica.
-- Automatización de procesos con n8n y Python.
-- Construcción, depuración y validación de bases de datos.
-- IA aplicada a flujos comerciales, técnicos y operativos.
-- GIS, geodesia, fotogrametría y análisis espacial.
-- Desarrollo de herramientas internas para productividad y control.
+I build technical solutions that combine civil engineering, process automation, data analysis, artificial intelligence, and geospatial tools.
 
 ---
 
-## 🛠️ Stack técnico
+## 🧭 Professional Focus
+
+I work at the intersection of engineering, data, and automation:
+
+- Civil engineering, geotechnics, and technical supervision.
+- Process automation with n8n and Python.
+- Construction, cleaning, and validation of structured databases.
+- Applied AI for commercial, technical, and operational workflows.
+- GIS, geodesy, photogrammetry, and spatial analysis.
+- Internal tools for productivity, traceability, and operational control.
+
+---
+
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![n8n](https://img.shields.io/badge/n8n-Automation-orange)
@@ -31,41 +31,41 @@ Trabajo en la intersección entre ingeniería, datos y automatización:
 
 ---
 
-## 🚀 Proyectos principales
+## 🚀 Main Projects
 
 ### 🔹 Automatizacion_DATA_BASE
 
-Sistema de automatización para construcción, depuración y validación de bases de datos comerciales con n8n, scripts y control operativo.
+Automation system for building, cleaning, validating, and managing commercial databases using n8n, scripts, and operational control workflows.
 
-**Tecnologías:** n8n, Python, Google Sheets, automatización, validación de datos.
+**Technologies:** n8n, Python, Google Sheets, automation, data validation.
 
 ---
 
 ### 🔹 bot-trading
 
-Proyecto de trading algorítmico con arquitectura modular, control de riesgo y pruebas sobre MetaTrader 5.
+Algorithmic trading project with modular architecture, risk management, and controlled testing on MetaTrader 5.
 
-**Tecnologías:** MQL5, gestión de riesgo, backtesting, automatización.
+**Technologies:** MQL5, risk management, backtesting, automation.
 
 ---
 
 ### 🔹 App-Accesible
 
-Aplicación enfocada en accesibilidad, asistencia por voz y experiencia simplificada para usuarios con discapacidad visual.
+Accessibility-focused mobile application with voice assistance and simplified interaction for visually impaired users.
 
-**Tecnologías:** Flutter, accesibilidad, TTS, STT, interfaces móviles.
+**Technologies:** Flutter, accessibility, TTS, STT, mobile interfaces.
 
 ---
 
 ### 🔹 Geo_converter_pro
 
-Herramientas y utilidades para procesamiento geoespacial y conversión de datos técnicos.
+Tools and utilities for geospatial processing and technical data conversion.
 
-**Tecnologías:** GIS, Python, geodesia, datos espaciales.
+**Technologies:** GIS, Python, geodesy, spatial data.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingcesarpedraza&show_icons=true&theme=tokyonight)
 
@@ -73,20 +73,20 @@ Herramientas y utilidades para procesamiento geoespacial y conversión de datos 
 
 ---
 
-## 📌 Áreas de interés
+## 📌 Areas of Interest
 
-- Automatización empresarial.
-- Inteligencia artificial aplicada.
-- Ingeniería geotécnica.
-- GIS y análisis espacial.
+- Business automation.
+- Applied artificial intelligence.
+- Geotechnical engineering.
+- GIS and spatial analysis.
 - Data pipelines.
-- Trading algorítmico.
-- Accesibilidad tecnológica.
-- Productividad con agentes IA.
+- Algorithmic trading.
+- Accessible technology.
+- AI agents for productivity.
 
 ---
 
-## 📫 Contacto profesional
+## 📫 Professional Contact
 
 - 🌐 Website: https://www.geotechnoingenieria.com
 - 📧 Email: contacto@geotechnoingenieria.com
@@ -94,4 +94,4 @@ Herramientas y utilidades para procesamiento geoespacial y conversión de datos 
 
 ---
 
-> Ingeniería, datos y automatización para construir sistemas más eficientes, trazables y escalables.
+> Engineering, data, and automation to build more efficient, traceable, and scalable systems.
