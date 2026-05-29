@@ -11,7 +11,7 @@ I build technical solutions that combine civil engineering, process automation, 
 I work at the intersection of engineering, data, and automation:
 
 - Civil engineering, geotechnics, and technical supervision.
-- Process automation with n8n and Python.
+- Process automation.
 - Construction, cleaning, and validation of structured databases.
 - Applied AI for commercial, technical, and operational workflows.
 - GIS, geodesy, photogrammetry, and spatial analysis.
